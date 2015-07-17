@@ -38,7 +38,7 @@ Yes. In the widget dropdown menu you can override the default times.
 
 = Can I edit the Start times? =
 
-No. The start times are in accordiance with the London Unified Prayer Timetable.
+No. The start times are in accordance with the London Unified Prayer Timetable.
 
 = What cities in the UK do you have prayer times for? =
 
